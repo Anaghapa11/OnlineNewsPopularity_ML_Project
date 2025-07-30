@@ -21,6 +21,5 @@ To build a predictive model that estimates the number of shares an article is li
 # Visual Analysis
 - Scatter plots: Actual vs Predicted
 - Residuals Distribution
-- Bar chart of model performance
 # Conclusion
 XGBoost Regressor outperformed other models with the highest R² score and lowest errors. This shows the effectiveness of ensemble-based models in capturing complex patterns in data.
